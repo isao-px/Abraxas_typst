@@ -9,3 +9,9 @@ Available with following links :
 | French      | English    |
 |:-------- |:-------- |
 |[Abraxas - Documentation.pdf](https://kdrive.infomaniak.com/app/share/136914/3886bf72-c4e0-4f9a-8e1f-7bd9e311ac93) (French)|[Abraxas - Documentation.pdf]() (English)|
+
+## Project repositories
+- [Abraxas](https://github.com/isao-px/Abraxas)
+- [Abraxas - server](https://github.com/isao-px/Abraxas_server)
+- [Abraxas - 3D files](https://github.com/isao-px/Abraxas_3D-files)
+- [Abraxas - PCB](https://github.com/isao-px/Abraxas_PCB)
