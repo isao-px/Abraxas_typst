@@ -8,7 +8,7 @@ You can use any typst compiler you want, both [main_fr.typ](https://github.com/i
 Available with following links :
 | French      | English    |
 |:-------- |:-------- |
-|[Abraxas - Documentation.pdf](https://kdrive.infomaniak.com/app/share/136914/3886bf72-c4e0-4f9a-8e1f-7bd9e311ac93) (French)|[Abraxas - Documentation.pdf](https://kdrive.infomaniak.com/app/share/136914/b201cae0-3f2e-4263-b3e3-23ac7567736a) (English)|
+|[Abraxas - Documentation.pdf](https://kdrive.infomaniak.com/2/app/136914/share/3886bf72-c4e0-4f9a-8e1f-7bd9e311ac93/files/294825/download) (French)|[Abraxas - Documentation.pdf](https://kdrive.infomaniak.com/2/app/136914/share/b201cae0-3f2e-4263-b3e3-23ac7567736a/files/295061/download) (English)|
 
 ## Project repositories
 - [Abraxas](https://github.com/isao-px/Abraxas)
