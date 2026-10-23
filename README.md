@@ -1,7 +1,10 @@
-# Typst document of the project documentation
+# Documentation of the Abraxas project
 Exists in French and in English (IA translated).
 
-## PDF
+## Typst version
+You can use any typst compiler you want, both main_fr.typ and main_en.typ.
+
+## PDF Version
 Available with following links :
 | French      | English    |
 |:-------- |:-------- |
