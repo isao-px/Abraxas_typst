@@ -2,7 +2,7 @@
 Exists in French and in English (IA translated).
 
 ## Typst version
-You can use any typst compiler you want, both main_fr.typ and main_en.typ.
+You can use any typst compiler you want, both main_fr.typ and main_en.typ are given.
 
 ## PDF Version
 Available with following links :
